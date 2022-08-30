@@ -1,0 +1,18 @@
+# pack-refs with: peeled fully-peeled sorted 
+510338722e1151c116afb9467e416989159476fa refs/remotes/origin/0.1.x
+e0a9a68de0e3bd773e812c98f84635c0902e23e7 refs/remotes/origin/add-fzf-builtin
+f68d0c24776f70feb018ac530fa9e2fff0d51880 refs/remotes/origin/apply_mappings_fixup
+279f1dd3e1945ca982e93b37443274300f1bb788 refs/remotes/origin/async_3
+e778abfdb457cc47ca47ce9b76905e043e87e598 refs/remotes/origin/dev
+575023a95397394a0a219969fc974ec0dcfd9ae5 refs/remotes/origin/extensions_improvements
+b349751d313b8077e19bebd694170312e205ead8 refs/remotes/origin/fix_ci
+949a233d5deb5b7fabbafe0618818d2f466ded59 refs/remotes/origin/fps
+d793de0f12d874c463e81edabee741b802c1a37a refs/remotes/origin/master
+6eb4c27009b603f6859d4ae88c4f4af7b490114c refs/remotes/origin/multi_actions
+e29ccb9d509aae0b15487449f0d8d7c7a4abeb26 refs/remotes/origin/thread_sorters
+b79cd6c88b3d96b0f49cb7d240807cd59b610cd8 refs/tags/0.1.0
+a1602abfca27067df4754e3750f8a65dafa038f7 refs/tags/nvim-0.5.0
+^587a10d1494d8ffa1229246228f0655db2f0a48a
+bf0383ad62b49544bf4b596a295738212d0c1a7a refs/tags/nvim-0.5.1
+^80cdb00b221f69348afc4fb4b701f51eb8dd3120
+d88094fbfd84b297178252230f6faf0e7d2f7650 refs/tags/nvim-0.6
